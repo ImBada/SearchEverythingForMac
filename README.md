@@ -63,4 +63,4 @@
 
 ### 크레딧
 
-개발 임바다 https://fxtwitter.com/BD_MARU
+개발 임바다 [https://fxtwitter.com/BD_MARU](https://fxtwitter.com/BD_MARU)
