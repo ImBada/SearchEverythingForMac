@@ -7,6 +7,8 @@
 
 [다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/1.0.5/SearchEverything105.dmg)
 
+최소 사양: 14.0 이상
+
 ### 특징
 - 타이핑 시 실시간으로 탐색
 - 순수한 파일 탐색에 특화된 검색 기능 (정확한 파일명 기준 혹은 폴더명 기준 검색)
