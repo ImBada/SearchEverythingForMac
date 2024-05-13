@@ -61,6 +61,8 @@
   - 위의 규칙을 따르고 영상 파일인 경우, 확장자 표시를 생략하며 종류가 오른쪽에 표시됩니다. ![스크린샷%202024-05-12%2008.31.45.png](Images/스크린샷%202024-05-12%2008.31.45.png)
 - 원하시는 규칙이 있으면 추가 문의를 보내주세요.
 
+제보 페이지 [github.com/ImBada/SearchEverythingForMac/issues](https://github.com/ImBada/SearchEverythingForMac/issues)
+
 ### 크레딧
 
-개발 임바다 [https://fxtwitter.com/BD_MARU](https://fxtwitter.com/BD_MARU)
+개발 임바다 [twitter.com/BD_MARU](https://twitter.com/BD_MARU)
