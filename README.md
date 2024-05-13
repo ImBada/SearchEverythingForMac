@@ -1,5 +1,12 @@
 # SearchEverything
 
+### 빠르게 정확한 파일 검색.
+#### Search Faster, Accurately. Written in Swift
+
+<p align="center"><img src="Images/스크린샷 2024-05-13 09.25.52.png" height="500"/></p>
+
+[다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/1.0.5/SearchEverything105.dmg)
+
 ### 특징
 
 - 순수한 파일 탐색에 특화된 검색 기능 (정확한 파일명 기준 혹은 폴더명 기준 검색)
