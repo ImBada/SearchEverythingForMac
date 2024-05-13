@@ -8,10 +8,10 @@
 [다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/1.0.5/SearchEverything105.dmg)
 
 ### 특징
-
+- 타이핑 시 실시간으로 탐색
 - 순수한 파일 탐색에 특화된 검색 기능 (정확한 파일명 기준 혹은 폴더명 기준 검색)
-- 실시간 탐색 등 특정 상황에 대비한 DB 인덱싱 내부 처리
-- 다양하게 정렬 가능
+- 실시간 탐색 등 특정 상황에 대비한 인덱싱 처리
+- 다양한 정렬 옵션
 - Quick Look (훑어보기) 지원 (파일 선택 후 스페이스 바, 이후 방향키나 마우스 등으로 선택 전환 가능)
 
 ### 개요
