@@ -8,6 +8,7 @@
 [다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/latest/SearchEverythingLatest.dmg)
 
 최소 사양: 14.0 이상
+최신 버전: 1.0.9
 
 ### 특징
 - 타이핑 시 실시간으로 탐색
