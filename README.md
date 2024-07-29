@@ -5,7 +5,7 @@
 
 <p align="center"><img src="Images/스크린샷 2024-05-13 09.25.52.png" height="500"/></p>
 
-[다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/latest/SearchEverythingLatest.dmg) (최신 버전 1.0.10)
+[다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/latest/SearchEverythingLatest.dmg) (최신 버전 1.0.11)
 
 최소 사양: 14.0 이상
 
