@@ -5,7 +5,7 @@
 
 <p align="center"><img src="Images/스크린샷 2024-05-13 09.25.52.png" height="500"/></p>
 
-[다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/latest/SearchEverythingLatest.dmg) (최신 버전 1.0.11)
+[다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/1.0.5/SearchEverything105.dmg)
 
 최소 사양: 14.0 이상
 
@@ -41,7 +41,7 @@
 
 ### 조작법
 
-- 파일을 하나 선택한 상태로 키보드 상/하로 선택된 파일을 이동할 수 있습니다. (이 상태에서 커맨드 + C 입력 시 경로를 제외한 파일명이 복사됩니다.)
+- 파일을 하나 선택한 상태로 키보드 상/하로 선택된 파일을 이동할 수 있습니다.
 - 드래그 앤 드랍의 기본적인 기능은 다 작동합니다.
 - 파일을 선택한 후 **스페이스 바**를 누르면 Quick Look (훑어보기) 창이 나타납니다. 창 크기를 조절 후 SearchEverything에서 계속 조작을 하면 훑어보기 창을 유지한 상태로 미리보기를 전환할 수 있습니다. 이 상태로 방향키, 마우스로 선택된 파일 전환을 해도 됩니다. 검색 수정 시 가장 마지막으로 연 창이 유지됩니다.
   옵션
