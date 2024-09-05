@@ -5,7 +5,7 @@
 
 <p align="center"><img src="Images/스크린샷 2024-05-13 09.25.52.png" height="500"/></p>
 
-[다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/latest/SearchEverythingLatest.dmg) (최신 버전 1.0.11)
+[다운로드](https://github.com/ImBada/SearchEverythingForMac/releases/download/latest/SearchEverythingLatest.dmg) (최신 버전 1.0.14)
 
 최소 사양: 14.0 이상
 
@@ -16,6 +16,7 @@
 - 다양한 정렬 옵션
 - Quick Look (훑어보기) 지원 (파일 선택 후 스페이스 바, 이후 방향키나 마우스 등으로 선택 전환 가능)
 - 검색 결과를 기준으로 파일명을 일괄 수정
+- 일괄 이름 변경
 
 ### 개요
 
