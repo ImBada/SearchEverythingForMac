@@ -69,4 +69,4 @@
 
 ### 크레딧
 
-개발 임바다 [twitter.com/BD_MARU](https://twitter.com/BD_MARU)
+개발 임바다 [twitter.com/BD_MARU](https://twitter.com/bd_otk)
